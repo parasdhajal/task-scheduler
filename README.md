@@ -4,7 +4,7 @@ It's a full-stack mobile application that helps you organize tasks. But it's not
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 I chose a modern stack to keep things fast, scalable, and developer-friendly.
 
@@ -20,7 +20,7 @@ I chose a modern stack to keep things fast, scalable, and developer-friendly.
 
 ---
 
-## �️ Setup Instructions
+## Setup Instructions
 
 
 ### 1. Backend Setup
@@ -85,7 +85,7 @@ Now for the mobile app. You'll need the Flutter SDK.
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 Here are the endpoints I implemented.
 
@@ -131,7 +131,7 @@ Update only what you need.
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 I used **PostgreSQL** because it's reliable and relational.
 
@@ -151,7 +151,7 @@ Keeps an audit log of what changed.
 
 ---
 
-## � Screenshots
+## Screenshots
 
 Here is what the app looks like!
 
@@ -163,7 +163,7 @@ Here is what the app looks like!
 
 ---
 
-## 🏛️ Architecture Decisions
+##  Architecture Decisions
 
 **Why Keyword Classification?**
 I decided to build a custom keyword-based classifier instead of using an external AI API (like OpenAI). Why?
@@ -177,7 +177,7 @@ I used Riverpod over Provider because it handles state dependencies much better 
 
 ---
 
-## � What I'd Improve
+##  What I'd Improve
 
 If I had more time, here is what I would add next:
 
