@@ -162,6 +162,12 @@ Here is what the app looks like!
 *(Note: If screenshots don't load, please check the `screenshots` folder in the repo!)*
 
 ---
+## 🌐 Live Backend (Render)
+
+Base URL: https://task-scheduler-86wp.onrender.com  
+API Docs (Swagger): https://task-scheduler-86wp.onrender.com/docs
+Health Check: https://task-scheduler-86wp.onrender.com/health
+
 
 ##  Architecture Decisions
 
