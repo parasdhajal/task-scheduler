@@ -6,8 +6,12 @@ from app.database import init_db
 app = FastAPI(
     title="Task Scheduler API",
     description="A simple task management API with auto-classification",
-    version="1.0.0"
+    version="1.0.0",
+    docs_url="/docs",
+    redoc_url="/redoc",
+    openapi_url="/openapi.json"
 )
+
 
 app.add_middleware(
     CORSMiddleware,
