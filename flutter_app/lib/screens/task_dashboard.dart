@@ -126,7 +126,7 @@ class _TaskDashboardState extends ConsumerState<TaskDashboard> {
 
   Widget _buildTaskList(TaskListState state, TaskListNotifier notifier) {
     if (state.isLoading && state.tasks.isEmpty) {
-      return const Center(child: CircularProgressIndicator());
+      return const TaskSkeleton();
     }
 
     if (state.error != null && state.tasks.isEmpty) {
