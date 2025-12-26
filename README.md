@@ -1,4 +1,4 @@
-# Task Scheduler – Internship Project
+# Task Scheduler  
 
 It's a full-stack mobile application that helps you organize tasks. But it's not just a simple to-do list—it's smart! When you create a task, the backend automatically analyzes your text to figure out the **category** (like Finance or Scheduling) and **priority**, and even suggests **next actions** for you.
 
@@ -22,7 +22,6 @@ I chose a modern stack to keep things fast, scalable, and developer-friendly.
 
 ## �️ Setup Instructions
 
-Want to run this locally? Here is how you can do it.
 
 ### 1. Backend Setup
 
@@ -189,4 +188,4 @@ If I had more time, here is what I would add next:
 
 ---
 
-*Thanks for checking out my project!*
+
